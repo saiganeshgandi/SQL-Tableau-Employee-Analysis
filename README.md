@@ -43,7 +43,6 @@ This structure required multi-table joins and historical trend analysis.
   - Grouping & Filtering (HAVING, WHERE)
 - **Tableau**
   - Dashboard design
-  - KPI visualization
   - Interactive filtering
   - Trend analysis visuals
 
